@@ -1,15 +1,15 @@
 {
-  "name": "Blacklist",
-  "version": "0.93",
+  "name": "Fakechecker",
+  "version": "0.01",
   "manifest_version": 2,
 
-  "description": "Blacklist is a very simple website blocker designed for personal use.",
+  "description": "Fakechecker is a simple website blocker based on list",
   "icons": {
     "16": "icon.16.png",
     "48": "icon.48.png",
     "128": "icon.128.png"
   },
-  "homepage_url": "http://rahulgi.github.com/Blacklist",
+  "homepage_url": "https://github.com/FUSA99/Blacklist",
 
   "browser_action": {
     "default_icon": "icon.48.png",

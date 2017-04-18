@@ -1,5 +1,5 @@
 Author:
-Rahul Gupta-Iwasaki 
+Sándor Fuli
 
 License:
 See "LICENSE" file.

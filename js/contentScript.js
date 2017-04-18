@@ -1,5 +1,4 @@
 // var blockedRoot = "";
-
 console.log("Content script running");
 
 chrome.extension.onMessage.addListener(

@@ -32,6 +32,7 @@ function getTabState(tabid) {
 }
 
 function requestChecker(request) {
+  
   console.log("onBeforeRequest");
   if (request && request.url) {
     if (request.type == "main_frame") {
